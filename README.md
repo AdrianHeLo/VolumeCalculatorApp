@@ -35,8 +35,6 @@ Este proyecto se creó como proyecto de portfolio para desarrolladores Android j
 - Migración a la arquitectura MVVM.
 
 ## 📷 Capturas de pantalla
-//(Opcional: añada aquí capturas de pantalla si las hay).
 
 ## 👤 Autor
-Adrián Hernández López
-Desarrollador Android junior
+Adrián Hernández López / Desarrollador Android
